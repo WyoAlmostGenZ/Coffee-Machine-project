@@ -42,20 +42,6 @@ milk_ml = resources["milk"]
 coffe_g = resources["coffee"]
 bank = resources["money"]
 
-
-
-
-
-
-
-
-# TODO n1 : print report
-# TODO n2 : check resources sufficient ?
-# TODO n3 : process coins
-# TODO n4 : check transaction successful
-# TODO n5 : Make Coffe
-
-
 while game_is_on:
 
 	choices = input("What would you like espresso/latte/cappuccino").lower()
